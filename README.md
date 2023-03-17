@@ -22,6 +22,6 @@ This project was done using Microsoft Powerbi. The data was gotten from maven an
 - [World Cup Dashboard](https://github.com/mobolajiolowo/Data_Anayst_Portfolio/tree/main/PowerBi/World_cup)<br />
 This project was done as part of the Mavins world cup challenge. The essence of the challenge was to tell the story of a country participating in the world cup using powerbi. I chose Uruguay and analyzed the data visualizing the country's path to the 2022 world cup. Here i sufficiently explored Data story telling with Powerbi. The data was analyzed using different dax formulars since the focus was majorly on a specific subset of the data. 
 
-![Pizza Place Dashboard](/PowerBi/world_cup_dashboard.jpg)<br />
+![World Cup Dashboard](/PowerBi/World_cup/world_cup_dashboard.jpg)<br />
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
