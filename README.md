@@ -17,6 +17,11 @@ This project was also done using Microsoft Excel. Publicly sourced data about en
 - [Pizza Place Dashboard](https://github.com/mobolajiolowo/Data_Anayst_Portfolio/tree/main/PowerBi/Pizza_Place_Sales)<br />
 This project was done using Microsoft Powerbi. The data was gotten from maven analytics as csv files and imported into Microsoft PowerBi. The mdelling was then done after which the data was thoruoghly analysed. This was done by cleaning the data, removing and creating new columns as needed. New measures were also created for the visualization, after which the final stage of Data visualization was done.
 
-![Pizza Place Dashboard](/PowerBi/Pizza_Place_Sales/pizza_dashboard.jpg)
+![Pizza Place Dashboard](/PowerBi/Pizza_Place_Sales/pizza_dashboard.jpg)<br />
+
+- [World Cup Dashboard](https://github.com/mobolajiolowo/Data_Anayst_Portfolio/tree/main/PowerBi/World_cup)<br />
+This project was done as part of the Mavins world cup challenge. The essence of the challenge was to tell the story of a country participating in the world cup using powerbi. I chose Uruguay and analyzed the data visualizing the country's path to the 2022 world cup. Here i sufficiently explored Data story telling with Powerbi. The data was analyzed using different dax formulars since the focus was majorly on a specific subset of the data. 
+
+![Pizza Place Dashboard](/PowerBi/world_cup_dashboard.jpg)<br />
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
